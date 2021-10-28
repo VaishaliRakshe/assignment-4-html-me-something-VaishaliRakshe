@@ -1,1 +1,29 @@
 /* Write your CSS here! */
+body {
+    background-color: lightblue;
+  }
+  p1 {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+    font-style: normal;
+    text-align: center
+    
+  }
+  h1 {
+    font-size: 40px;
+  }
+  
+  h2 {
+    font-size: 30px;
+  }
+  #home1 {
+    width:600;
+    height: 400;
+    
+  }
+  #home2 {
+    width:600;
+    height: 400;
+    
+  }
+  /* Write your CSS here! */
