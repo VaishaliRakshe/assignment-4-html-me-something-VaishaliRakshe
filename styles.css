@@ -1,6 +1,6 @@
 /* Write your CSS here! */
 body {
-    background-color: lightblue;
+    background-color: rgb(6, 133, 175);
   }
   p1 {
     font-family: "Times New Roman", Times, serif;
@@ -9,12 +9,12 @@ body {
     text-align: center
     
   }
-  h1 {
+  h1 ,h2,h3{
     font-size: 40px;
   }
   
-  h2 {
-    font-size: 30px;
+  h4,h5,h6 {
+    font-size: 40px;
   }
   #home1 {
     width:600;
